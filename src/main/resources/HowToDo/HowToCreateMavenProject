@@ -1,0 +1,45 @@
+				what is maven?
+				Maven is a project management tool
+				
+				how to build a Maven project?
+				steps 1 click on File-->new-->Maven Project--> create simple project--> 
+				click next--> write group in--> write artifact id-click on finish
+				
+				explain maven project?
+				
+				src/main/java== this source code area
+				    developers code/application business logic 
+				    this code goes to production
+				    dataType= package name
+				    
+				    NumericData== class name--class only be created inside the package
+				    
+				    src/main/resources== configurational package
+				      folder and file should be there
+				      normally documentation like user manual
+				      all the properties of the app should be there
+				      
+				     
+				     
+				      src/test/java== this testing code area-->unit test, ui test, api test
+				    developers code/testing logic 
+				    this code does not go to production
+				    test= package name
+				    HelloJava== class name--class only be created inside the package
+				    src/test/resources== configurational package
+				      folder and file should be there
+				      normally documentation like user manual/test configuration
+				      all the properties of the app should be there
+				      
+				      
+				        how to create a package?
+       right click on src/main/java--> new-->package-->write the package name --> click on finish
+         what is a package: package is a specific folder for sepcific code.
+          for example login package is for login code
+          
+      how to create a class?
+      write click on package-->new-- Class--> write class name--> click on public static void-- click finish
+      what is a java class: this is where we write java code
+      
+				      
+				      
