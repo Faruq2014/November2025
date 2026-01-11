@@ -11,12 +11,20 @@ public class StringDataType {
 		
     String firstName="Jose";
     String lastName="Maisonet";
-    System.out.println(firstName);    
+    System.out.println(firstName);
+    
+    //Concatenation
     System.out.println("my frirst name is "  +   firstName);
     System.out.println("my last name is "  +   lastName);
     
   String fullName = firstName +" "+ lastName;
-  System.out.print(fullName);
+  System.out.println(fullName);
+  
+  //addition
+  String fullName1= firstName + lastName;
+  System.out.println(fullName1);
+  // in String data type only addition is allow
+  //
 
 	}
 
