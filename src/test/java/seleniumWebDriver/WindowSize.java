@@ -32,7 +32,7 @@ public class WindowSize {
 	@AfterTest
 	public void closeApplication() {
 		
-		//driver.close();
+		driver.close();
 		
 	}
 	

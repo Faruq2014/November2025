@@ -43,7 +43,7 @@ public class LoginTest {
 	@AfterTest
 	public void closeApplication() {
 		
-		//driver.close();
+		driver.close();
 		
 	}
 	

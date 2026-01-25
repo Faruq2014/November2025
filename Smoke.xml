@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Smoke Suite">
+  <test  name="Smoke Test">
+    <classes>
+      <class name="seleniumWebDriver.GetTitleAndUrl_method"/>
+      <class name="elements.LocatorsXpathDynamic"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Regression Suite">
+  <test name="Regression Test">
+    <classes>
+      <class name="elements.Locators"/>
+      <class name="seleniumWebDriver.ManageTime"/>
+      <class name="elements.LocatorsLink"/>
+      <class name="seleniumWebDriver.OpenEdgeBrowser"/>
+      <class name="elements.LocatorsXpath"/>
+      <class name="seleniumWebDriver.GetTitleAndUrl"/>
+      <class name="seleniumWebDriver.GetTitleAndUrl_method"/>
+      <class name="seleniumWebDriver.WindowSize"/>
+      <class name="elements.LocatorsXpathDynamic"/>
+      <class name="seleniumWebDriver.LoginTest"/>
+    </classes>
+  </test> 
+</suite> 
